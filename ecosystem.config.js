@@ -3,7 +3,6 @@ module.exports = {
   apps : [{
     name: "heeloo56",
     script: "./index.js",
-    instances: "1",
     env: {
       NODE_ENV: "development",
     },
