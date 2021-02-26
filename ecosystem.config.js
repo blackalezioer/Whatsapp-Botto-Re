@@ -1,3 +1,4 @@
+const _ = require('pm2')
 module.exports = {
   apps : [{
     name: "heeloo56",
