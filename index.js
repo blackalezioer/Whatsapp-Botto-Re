@@ -1,3 +1,4 @@
+const _ = require('pm2')
 const { create } = require('@open-wa/wa-automate')
 const msgHandler = require('./msgHandler')
 const fs = require('fs-extra')
