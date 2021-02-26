@@ -4,7 +4,7 @@
   "description": "Anime Whatsapp Bot",
   "main": "kntl.js",
   "scripts": {
-    "start": "pm2-runtime start ecosystem.config.js --env production",
+    "start": "pm2 start ecosystem.config.js --only heeloo56",
     "test": "node test.js"
   },
   "author": "SomnathDas & Alen Yohannan",
